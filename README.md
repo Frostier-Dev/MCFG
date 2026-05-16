@@ -5,7 +5,7 @@ This is an unofficial Minecraft prototype, developed on the Godot Engine using A
 ## 🎮 How to Play
     Web:
         You can test the game directly in your browser, without downloading anything, by clicking on the link below:
-        👉 [Play on Itch.io](https://frostierdev.itch.io/minecraft-godot-alpha)
+        👉 Play on Itch.io: https://frostierdev.itch.io/minecraft-godot-alpha
     Desktop:
         Download the desktop build in the releases and run it!
 
