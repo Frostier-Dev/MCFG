@@ -1,14 +1,29 @@
-# MCFG
-Hi, im Frostier71, a 13yo C++ Begginer, this is a prorotype (early build) of Minecraft powered by Godot Engine. Contains AI code!
+# Minecraft - Godot Engine
 
-WASD = Move;
-Mouse = Move camera;
+This is an unofficial Minecraft prototype, developed on the Godot Engine using AI assistance for study and portfolio purposes. The project is 100% non-profit.
 
-Left-click = Destroy block;
-Right-click = Place block;
+## 🎮 How to Play
+    Web:
+        You can test the game directly in your browser, without downloading anything, by clicking on the link below:
+        👉 [Play on Itch.io](https://frostierdev.itch.io/minecraft-godot-alpha)
+    Desktop:
+        Download the desktop build in the releases and run it!
 
-Space = Jump;
+## 🛠️ Current Features (Alpha)
+- 3D movement and first-person camera
+- System for breaking and placing blocks
+- Basic water physics
+- Inventory system
 
-N = Place water;
-I = Open inventory;
-Esc = Exit inventory or enter/exit menus.
+## 📜 Legal Notice / Disclaimer
+Minecraft is a registered trademark of Mojang Studios and Microsoft. This project has no connection with the companies mentioned and was created strictly for learning programming.
+
+## 🎮 Controls
+- WASD = Move
+- Mouse = Look around
+- Left-click = Destroy block
+- Right-click = Place block
+- Space = Jump
+- N = Place water
+- I = Open inventory
+- Esc = Exit / Open menu
